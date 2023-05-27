@@ -1,0 +1,67 @@
+node --version
+npm --version
+npm install expo-cli --global
+npx create-expo-app weatherApp
+npx expo start --tunnel
+npm install -g eas-cli
+eas login
+eas build:configure
+eas build --platform android
+
+
+
+
+project 60:
+https://snack.expo.dev/@bijoya1010/pro-c60
+
+
+git class 67:
+ git --version
+git config --global user.name "Saksham"
+ git config --global user.email "sakshamp123@hotmail.com"
+git clone <path of repository> - This command helps to clone a git repository
+git status - This command gives the current status of the working repository
+git add - This command associates the working directory on our git bash shell to the remote repository.
+git commit - This command helps to commit the changes to the remote repository
+git push - This command helps to push the current changes to the github repository.
+
+class 68:
+npm install @react-navigation/bottom-tabs
+npm install react-native-screens
+npm install react-native-gesture-handler
+ npm install @react-navigation/native
+npm i react-navigation
+npx expo install expo-permissions
+npx expo install expo-barcode-scanner
+
+class 70:
+expo install @expo-google-fonts/rajdhani
+expo install expo-font@~8.4.0
+npm install react-native vector-icons
+react-native-vector-icons/Ionicons
+
+cd: change directory
+
+Class 76:
+npm install @react-navigation/stack
+npm install @react-navigation/native
+expo install react-native-gesture-handler
+expo install react-native-screens
+expo install react-native-reanimated
+expo install react-native-safe-area-context
+expo install @react-native-community/masked-view
+
+Class 77:
+expo install react-native-maps
+npm add axios
+
+Class 81:
+npm install OR expo install
+expo install react-native-gesture-handler 
+npm install:
+react-native-reanimated 
+react-native-screens 
+react-native-safe-area-context 
+@react-native-community/masked-view
+ @react-navigation/native
+ @react-navigation/bottom-tabs
